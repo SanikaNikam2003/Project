@@ -1,3 +1,3 @@
 # Project
 This is my first Git Repository 
-My name is Sanika Nikam.
+My name is Sanika Nikam.(cummins)
